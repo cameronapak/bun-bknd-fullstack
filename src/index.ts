@@ -6,6 +6,7 @@ import indexHtml from "./index.html";
 // this is optional, if omitted, it uses an in-memory database
 const config: ServeFunctionOptions<any, any> & BunBkndConfig = {
    adminOptions: {
+      // @TODO - Figure out why this doesn't work as intended.
       basepath: "/admin",
    },
    connection: {
