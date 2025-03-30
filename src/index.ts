@@ -14,6 +14,7 @@ const config: ServeFunctionOptions<any, any> & BunBkndConfig = {
    routes: {
       "/": indexHtml,
    },
+   port: 3000,   
 };
 
 serve(config);
