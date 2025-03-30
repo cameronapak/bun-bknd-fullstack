@@ -1,5 +1,7 @@
 # bknd starter: Bun
-A minimal Bun project with bknd integration.
+A minimal Bun project with bknd integration. 
+
+https://bun.sh/docs/bundler/fullstack
 
 ## Project Structure
 
@@ -7,8 +9,8 @@ Inside of your Bun project, you'll see the following folders and files:
 
 ```text
 /
-├── index.ts
-├── minimal.ts
+├── src
+│   └── index.ts
 └── package.json
 ```
 
