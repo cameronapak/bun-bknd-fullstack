@@ -13,7 +13,8 @@
     "tailwindcss": "^4.0.17"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "daisyui": "^5.0.9"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
