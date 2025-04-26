@@ -8,6 +8,7 @@
     "start": "bun run src/index.ts"
   },
   "dependencies": {
+    "alpinejs": "^3.14.9",
     "bknd": "0.10.2",
     "bun-plugin-tailwind": "^0.0.15",
     "tailwindcss": "^4.0.17"
