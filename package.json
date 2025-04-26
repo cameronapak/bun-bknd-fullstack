@@ -11,6 +11,7 @@
     "alpinejs": "^3.14.9",
     "bknd": "0.10.2",
     "bun-plugin-tailwind": "^0.0.15",
+    "hono": "^4.7.7",
     "tailwindcss": "^4.1.4"
   },
   "devDependencies": {
